@@ -1,5 +1,7 @@
 # 🎨 Blender
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/zos-blender&ref=main&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/zos-blender&ref=main&action=edit)
+
 3D modeling, animation, and rendering
 
 ## Category
